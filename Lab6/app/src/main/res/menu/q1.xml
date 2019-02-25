@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/courses"
+              android:icon="@drawable/course"
+              android:title="Courses"/>
+        <item android:id="@+id/admission"
+              android:icon="@drawable/admission"
+              android:title="Admission"/>
+        <item android:id="@+id/faculty"
+              android:icon="@drawable/faculty"
+              android:title="Faculty"/>
+    </menu>
