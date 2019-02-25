@@ -36,7 +36,7 @@
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
                 android:scaleType="fitXY"
-                tools:src="@drawable/fc1" />
+                tools:src="@tools:sample/avatars[0]" />
 
             <TextView
                 android:id="@+id/textView3"
@@ -60,7 +60,7 @@
                 android:layout_height="100dp"
                 android:layout_weight="1"
                 android:scaleType="fitXY"
-                tools:src="@drawable/fc2" />
+                tools:src="@tools:sample/avatars[1]" />
 
             <TextView
                 android:id="@+id/textView4"
